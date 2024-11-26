@@ -1,6 +1,10 @@
 # Simple-Text-Based-Adventure-Game
 Created a text based adventure game where users can make choices that affect the outcome
 
+![GitHub Repo Size](https://img.shields.io/github/repo-size/rishav0821/Simple-Text-Based-Adventure-Game)
+![GitHub Stars](https://img.shields.io/github/stars/rishav0821/Simple-Text-Based-Adventure-Game?style=social)
+![GitHub Forks](https://img.shields.io/github/forks/rishav0821/Simple-Text-Based-Adventure-Game?style=social)
+
 ---
 ## ✨Features of the GUI Text Adventure Game:
 - **Story Display:The current scene's story is shown in a text label.**
